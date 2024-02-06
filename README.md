@@ -1,7 +1,6 @@
 # `oetzit`: dataset
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10623728
-.svg)](https://doi.org/10.5281/zenodo.10623728)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10623728.svg)](https://doi.org/10.5281/zenodo.10623728)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This repo contains the dataset gathered by the deployment of `oetzit` at https://eurac.itch.io/oetzit up to 2024-01-15, in the form of CSV tables for the following five entities: devices, games, words, clues and shots.
